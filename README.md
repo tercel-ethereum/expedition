@@ -5,7 +5,7 @@
   <img src="https://github.com/etclabscore/jade-media-assets/blob/master/j-explorer/j-explorer(PNG)/128x128.png?raw=true" />
 </p>
 <center>
-  <h3 align="center">Expedition</h3>
+  <h3 align="center">NCScan</h3>
 
   <p align="center">
     A block explorer for the Ethereum Stack.

@@ -271,7 +271,7 @@ function App(props: any) {
                     </Grid>
                     <Grid>
                       <Typography color="textSecondary" variant="h6">
-                        {t("Expedition")}
+                        {t("NCScan")} 
                       </Typography>
                     </Grid>
                   </Grid>
