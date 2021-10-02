@@ -10,7 +10,12 @@ export default function() {
     {
       name: "NexusChain",
       network: "testnet",
-      rpc: ["http://18.141.221.105:8545"],
+      rpc: ["https://testrpc.nexuschain.org/"],
+    },
+    {
+      name: "Ethereum Classic",
+      network: "mainnet",
+      rpc: ["https://www.ethercluster.com/etc"],
     },
     {
       name: "Matic",
